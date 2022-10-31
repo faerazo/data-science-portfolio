@@ -1,5 +1,5 @@
 
-# Premium Product Predictor
+# Premium Product Predictor (In Progress)
 
 ## Introduction
 The primary goal of this study is to predict whether a manufactured product is premium or non-premium. 
